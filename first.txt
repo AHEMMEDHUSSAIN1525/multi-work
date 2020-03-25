@@ -2,3 +2,4 @@ This is first file's first line.
 edited now
 SCONF
 new edit
+added a new line
